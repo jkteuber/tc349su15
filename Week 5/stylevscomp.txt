@@ -1,0 +1,11 @@
+Style Tile vs. Comp
+
+I prefer creating comps over style tiles for multiple reasons. The first reason is to get a good idea of 
+what the site will actually look like when it is fully put together. The style tile will give you a good idea of the 
+theme of the webpage, but is unable to show you how the items will work together in the final piece.
+The second reason is the style tile is very limited in what you can show, and doesn't allow you to iterate on the 
+actually site layout. The site layout is very important for the final design, and can go through many iterations
+just as the color design will. A comp will allow you to see the layout and the style at the same time, 
+allowing you to judge and make changes to both at the same time.
+
+I spent about 20 minutes on the style tiles and 40 on the comp.

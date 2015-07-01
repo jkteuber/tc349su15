@@ -1,0 +1,30 @@
+Rocket League content sections:
+
+Videos
+-Show trailer video
+-Show PS4 signup video
+-Add community created gameplay videos (Plenty in forums)
+
+Screenshots
+-Add the 28 pictures used on the current site
+
+Release information: Date & Systems
+-The game will be releasing on PS4 and PC on July 7th. By preordering for the PS4 you will receive a unique vehicle
+that will only be available through preordering.
+
+Goal of the game
+-The goal of the game is simple: to make the ball go into your opponent's net.
+-The difficult part is getting the ball past the opponents and making it go where you want to go. 
+-Directing the ball where you want to go is easy as a person, but not so easy when you are using a car.
+
+Game mechanics
+-You are controlling a rocket car with jumping ability, as well as boost.
+-Boost can be used to increase your speed for those critical moments where you need to catch the ball.
+-Boost can be refilled by running over boost pads located at different points on the map.
+-You can redirect your car mid-air in order to change how you hit the ball.
+-Check the wiki for more information and tutorials.
+
+Community
+-Forums Link
+-Wiki Link
+
